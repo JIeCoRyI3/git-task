@@ -1,0 +1,25 @@
+188e5ab HEAD@{0}: merge develop: Fast-forward
+63158a5 HEAD@{1}: checkout: moving from EPMRDUASTT-425_2 to EPMRDUASTT-425
+188e5ab HEAD@{2}: merge develop: Fast-forward
+25c0020 HEAD@{3}: checkout: moving from develop to EPMRDUASTT-425_2
+188e5ab HEAD@{4}: checkout: moving from EPMRDUASTT-425_1 to develop
+188e5ab HEAD@{5}: merge develop: Fast-forward
+4c89fb0 HEAD@{6}: checkout: moving from develop to EPMRDUASTT-425_1
+188e5ab HEAD@{7}: checkout: moving from EPMRDUASTT-425_1 to develop
+4c89fb0 HEAD@{8}: checkout: moving from EPMRDUASTT-425_2 to EPMRDUASTT-425_1
+25c0020 HEAD@{9}: checkout: moving from develop to EPMRDUASTT-425_2
+188e5ab HEAD@{10}: commit (merge): Merge EPMRDUASTT-425_2 branch
+4c89fb0 HEAD@{11}: merge EPMRDUASTT-425_1: Fast-forward
+56e2e5f HEAD@{12}: checkout: moving from EPMRDUASTT-425_2 to develop
+25c0020 HEAD@{13}: commit: Import style to html
+1f982f3 HEAD@{14}: commit: Add styles
+56e2e5f HEAD@{15}: checkout: moving from develop to EPMRDUASTT-425_2
+56e2e5f HEAD@{16}: checkout: moving from EPMRDUASTT-425_1 to develop
+4c89fb0 HEAD@{17}: commit: Import images to html file
+116730a HEAD@{18}: commit: Add js file
+8ef23af HEAD@{19}: commit: Add images
+56e2e5f HEAD@{20}: checkout: moving from develop to EPMRDUASTT-425_1
+56e2e5f HEAD@{21}: commit: Create base task structure
+63158a5 HEAD@{22}: checkout: moving from EPMRDUASTT-425 to develop
+63158a5 HEAD@{23}: checkout: moving from master to EPMRDUASTT-425
+63158a5 HEAD@{24}: commit (initial): Initial commit
